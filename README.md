@@ -16,7 +16,7 @@
 ### Install
 1. Clone the project and go to project directory
    ```
-   git clone https://github.com/recitativonika/Dawn-Validator-bot.git
+   git clone https://github.com/Mittyadav/Dawn-Validator-bot.git
    ```
    ```
    cd Dawn-Validator-bot
@@ -58,7 +58,7 @@
     node index.js
     ```
 	
-Python version if you have problem with js version: https://github.com/recitativonika/Dawn-Validator-bot-python	
+Python version if you have problem with js version: https://github.com/Mittyadav/Dawn-Validator-bot-python	
 	
 Dawn Validator Extension : https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?authuser=0&hl=en
 
