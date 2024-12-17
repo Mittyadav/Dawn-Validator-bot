@@ -54,9 +54,9 @@ const displayWelcome = () => {
 
                 \x1b[32m🌟 DAWN Validator Extension automatic claim 🌟\x1b[0m
 
-                          \x1b[36mGithub: recitativonika\x1b[0m
+                          \x1b[36mGithub: Mittyadav\x1b[0m
 
-                        \x1b[36mgithub.com/recitativonika\x1b[0m
+                        \x1b[36mgithub.com/Mittyadav\x1b[0m
 
     `);
 
